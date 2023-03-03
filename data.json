@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Learn Tailwind CSS",
+    "description": "Learn Tailwind for Kalbe",
+    "link": "https://tailwindcss.com/docs/installation",
+    "priority": "3",
+    "timeToFinish": 1,
+    "createdAt": "2023-03-01T09:00:07.448Z",
+    "status": "complete",
+    "id": "1677661207448",
+    "activationTime": "2023-03-03T01:43:01.245Z"
+  },
+  {
+    "title": "Learn Postman",
+    "description": "Learn Postman for Kalbe",
+    "link": "https://www.postman.com/",
+    "priority": "2",
+    "timeToFinish": 60,
+    "createdAt": "2023-02-28T02:42:43.434Z",
+    "status": "complete",
+    "id": "1677552163434",
+    "activationTime": "2023-03-03T05:54:12.636Z"
+  },
+  {
+    "title": "Learn NextJs",
+    "description": "Learn NextJs for Kalbe",
+    "link": "https://nextjs.org/",
+    "priority": "1",
+    "timeToFinish": "120",
+    "createdAt": "2023-02-28T02:29:19.787Z",
+    "status": "active",
+    "id": "1677551359787",
+    "activationTime": "2023-03-03T06:38:34.993Z"
+  },
+  {
+    "id": "1",
+    "title": "Learn Creational Patterns",
+    "description": "Learn factory pattern",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "createdAt": "2023-02-28T02:29:19.787Z",
+    "status": "inactive"
+  },
+  {
+    "id": "2",
+    "title": "Learn CSS Frameworks",
+    "description": "Learn Tailwind",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "priority": 2,
+    "timeToFinish": 60,
+    "createdAt": "2023-02-28T02:29:19.787Z",
+    "status": "inactive"
+  },
+  {
+    "id": "3",
+    "title": "Learn API",
+    "description": "Learn REST API and Postman",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "priority": 1,
+    "timeToFinish": 120,
+    "createdAt": "2023-02-28T02:29:19.787Z",
+    "status": "complete"
+  }
+]
